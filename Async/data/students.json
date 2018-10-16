@@ -1,0 +1,15 @@
+{
+    "students": [
+        {
+            "fisrt_name": "Mahmoud",
+            "second_name": "Soliman",
+            "gpa": 3.4
+        },
+        {
+            "fisrt_name": "Nader",
+            "second_name": "Ali",
+            "gpa": 2.1
+        }
+    ]
+
+}
