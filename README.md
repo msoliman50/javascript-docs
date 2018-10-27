@@ -13,4 +13,5 @@
 - [x] Asynchronous Calls
 - [x] ECMAScript 6, 7, 8, ... etc new syntax
 - [ ] JavaScript Design Patterns
-- [ ] Powerful Built-In Functions 
+- [ ] Powerful Built-In Functions
+- [ ] Advanced JS Concepts (Execution Context, Hoisting, Scope Chaining, Type Coersion, ...etc) 
