@@ -32,7 +32,6 @@ console.log(s1.login(), s2.logout());
 // method chanining
 console.log(s1.login().incGPA().logout());
 
-
 // inheritance
 
 class Foriegn extends Student {
@@ -42,6 +41,10 @@ class Foriegn extends Student {
         this.country = country;
         this.language = language;
     }
+
+    // login() {
+    // 	console.log('this is my own version of login')
+    // }
 
     living() {
         console.log(this.firstName, 'was living in', this.country);
@@ -65,3 +68,4 @@ var s3 = new Foriegn('Yaya', 'Yakobo', 1, 'Ghana', 'French');
 let students = [s1, s2, s3];
 
 s3.living();
+s3.login();
