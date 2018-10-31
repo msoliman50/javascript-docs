@@ -16,5 +16,5 @@ const person = {
     job: 'Software Engineer',
     age: 25
 };
-{job, age} = person;
-console.log(job, age);
+// {job, age} = person;
+// console.log(job, age);
